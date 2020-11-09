@@ -3,6 +3,7 @@ md5compare
 From [winMd5Sum](https://github.com/nullriver/winMd5Sum), i just made it into a command line application
 
 ### TODO
+- [ ] Even the hash are the same, file content are different
 - [ ] varargs
 - [ ] auto `md5_byte_t` comparison
 
