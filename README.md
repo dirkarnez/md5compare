@@ -13,4 +13,5 @@ From [winMd5Sum](https://github.com/nullriver/winMd5Sum), i just made it into a 
 3. `mingw32-make.exe`
 
 ### Reference
+- `fc.exe /b file1 file2`
 - https://github.com/OV2/RapidCRC-Unicode
